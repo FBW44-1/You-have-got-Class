@@ -1,0 +1,16 @@
+.list-item{
+    color: blueviolet;
+}
+.heading{
+    color: red;
+}
+body{
+    background-color: #fff;
+    color: black;
+}
+#bg1{
+    background-color: purple;
+}
+#bg2o{
+    background-color: green; opacity: 40%;
+}
