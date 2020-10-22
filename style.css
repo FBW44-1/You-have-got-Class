@@ -1,0 +1,18 @@
+.heading{
+    background-color: blueviolet;
+}
+
+.list-item{
+    color: darkblue;
+}
+
+.redHead{
+    color: red;
+    font-size: larger;
+    font-weight: bold;
+}
+
+#bottom{
+    background-color: green;
+    font-weight: bold;
+}
