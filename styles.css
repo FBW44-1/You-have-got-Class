@@ -1,0 +1,15 @@
+.heading {
+    background-color: blueviolet;
+}
+
+.list-item {
+    color: darkblue;
+    font-weight: bold;
+}
+
+
+#text-bottom {
+    background-color: rgb(0, 255, 0); opacity: 0.5;
+    font-weight: bold;
+    
+} 
